@@ -37,6 +37,9 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" width="65" height="40"/> 
+</a>
 </p>
 
 
