@@ -19,9 +19,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" alt="mongodb" width="40" height="40"/> 
-  </a>
   <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> 
     <img src="https://th.bing.com/th/id/OIP.kPpbMnhQUwgG-5waJ2Ug3AAAAA?rs=1&pid=ImgDetMain" alt="influxDB" width="40" height="40"/> 
   </a>
