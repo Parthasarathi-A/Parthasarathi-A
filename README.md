@@ -38,6 +38,3 @@
     <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" width="65" height="40"/> 
 </a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthasarathi-a&show_icons=true&locale=en" alt="parthasarathi-a" /></p>
