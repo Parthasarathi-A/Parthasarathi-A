@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 📫 How to reach me :
-<br /> <a href="mailto:bisarathi22@gmail.com">
+<br /> <a href="mailto:parthasarathi26.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/>
 </a>
 <a href="https://www.linkedin.com/in/parthasarathi-angusamy/">
